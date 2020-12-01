@@ -1,8 +1,8 @@
 <# 
-Title: Local Computer System Information
+Title: Local Processor Information
 By: Alan Newingham
 Date: 12/1/2020
-Git: 
+Git: https://github.com/01000001-01001110/Get-Processor/edit/main/getcpuinfo.ps1
 Notes: 
 #>
 
